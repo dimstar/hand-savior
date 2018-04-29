@@ -1,0 +1,27 @@
+{
+  "name": "hand-savior",
+  "version": "1.0.0",
+  "description": "This is an app that might save my hands. maybe yours too?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimstar/hand-savior.git"
+  },
+  "author": "Kyle R Magee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimstar/hand-savior/issues"
+  },
+  "homepage": "https://github.com/dimstar/hand-savior#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "robot-js": "^2.0.0",
+    "speakable": "^0.4.0"
+  }
+}
